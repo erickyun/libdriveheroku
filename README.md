@@ -38,3 +38,9 @@ This repository (<https://github.com/libDrive/heroku>) stores the source code fo
 - [libDrive/cloudflare](https://github.com/libDrive/cloudflare)
 - [libDrive/heroku](https://github.com/libDrive/heroku)
 - [libDrive/config](https://github.com/libDrive/config)
+
+
+# Heroku
+-------
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
